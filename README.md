@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   &emsp; 
 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/react%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+    <img alt="C++" src="https://img.shields.io/badge/REACT%20-%2300599REACT.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   </a> 
   
   &emsp;
