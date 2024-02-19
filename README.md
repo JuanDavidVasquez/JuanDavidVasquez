@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi , I'm Juan David <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;MERN+STACK;MEAN+STACK;Laravel">
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;MERN+STACK;MEAN+STACK;Laravel">
 </p>
 
 
